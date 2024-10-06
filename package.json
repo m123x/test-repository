@@ -1,7 +1,7 @@
 {
    "name": "test-repository",
    "version": "1.0.4",
-   "description": "TesterinhoY",
+   "description": "TesterinhoXY",
    "main": "index.js",
    "scripts": {
       "test": "echo \"Error: No test specified\" && exit 255"
