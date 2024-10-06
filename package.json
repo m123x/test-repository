@@ -1,10 +1,10 @@
 {
   "name": "test-repository",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "Test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: No test specified\" && exit 255"
   },
   "author": "",
   "license": "ISC"
